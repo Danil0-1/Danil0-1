@@ -29,5 +29,5 @@
 
 ### 📅 GitHub Activity Graph:
 <p align="center">
-  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=danil0-1&theme=github-compact)
+  ![Danilo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danil0-1&theme=github-compact)
 </p>
