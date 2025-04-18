@@ -26,3 +26,6 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+![znk](https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e)
