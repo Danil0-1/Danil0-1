@@ -27,7 +27,7 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=danil0-1&theme=github-compact)
-
-
+### 📅 GitHub Activity Graph:
+<p align="center">
+  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=danil0-1&theme=github-compact)
+</p>
