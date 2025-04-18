@@ -26,8 +26,3 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
 </picture>
-
-### 📅 GitHub Activity Graph:
-<p align="center">
-  ![Danilo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danil0-1&theme=github-compact)
-</p>
