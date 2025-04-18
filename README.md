@@ -28,4 +28,6 @@
 </picture>
 
 
-<img align="center" src =![znk](https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e)>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e" alt="znk" width="400" />
+</p>
