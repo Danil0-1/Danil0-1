@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://danil0-1.github.io/PortafolioDaniloMuskus/index.html" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://i.pinimg.com/1200x/e0/26/ee/e026eee9a88c74920a8ece012a65f79f.jpg" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
