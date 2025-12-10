@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e" alt="Avatar o Banner de Bienvenida" width="400" />
+  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" alt="Avatar o Banner de Bienvenida" width="400" />
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Danilo Muskus Tarazona</h1>
@@ -12,7 +12,7 @@
 
 Soy **Danilo Muskus**, y me impulsa una gran curiosidad por la tecnología y la programación. Mi objetivo es adquirir nuevas habilidades constantemente y aplicarlas en proyectos desafiantes.
 
-* 🔭 Actualmente estoy trabajando en **[Menciona un proyecto actual o un área de enfoque]**.
+* 🔭 Actualmente estoy trabajando en **Python POO**.
 * 🌱 Siempre estoy aprendiendo sobre **nuevas arquitecturas, *cloud computing* (AWS/Azure) y frameworks modernos**.
 * 💡 Me encanta colaborar en proyectos que buscan soluciones innovadoras.
 * 📫 Puedes contactarme a través de mis redes sociales.
