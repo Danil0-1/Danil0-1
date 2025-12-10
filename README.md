@@ -58,40 +58,48 @@ Conoce algunas de las tecnologías con las que he trabajado:
 </p>
 
 ---
+---
 
 ### 📈 Mis Estadísticas en GitHub
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=radical" alt="Danilo - Top Lenguajes" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=radical" alt="Danilo - Estadísticas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
 </p>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark" alt="Danilo - Estadísticas Generales" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark" alt="Danilo - Top Lenguajes" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danil0-1&theme=dark" alt="Danilo - Trofeos" /></a>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+  </picture>
+</div>
+
 
 ---
 
 ### 🔗 Conéctate Conmigo
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
-</p>
+Para contactarme o ver mi trabajo:
 
-| Plataforma | Enlace | Icono |
-| :--- | :--- | :--- |
-| **Portafolio** | [Mi Portafolio](https://danil0-1.github.io/PortafolioDaniloMuskus/index.html) | <img align="center" src="https://i.pinimg.com/1200x/e0/26/ee/e026eee9a88c74920a8ece012a65f79f.jpg" alt="Portfolio" height="20" width="20" /> |
-| **Instagram** | [Danil2_8](https://www.instagram.com/danil2_8) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /> |
-| **Twitter** | [Sígueme en Twitter](https://twitter.com/) | <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" /> |
+<p align="left">
+    <a href="https://danil0-1.github.io/PortafolioDaniloMuskus/index.html" target="blank">
+        <img align="center" src="https://i.pinimg.com/1200x/e0/26/ee/e026eee9a88c74920a8ece012a65f79f.jpg" alt="Portafolio" height="30" width="40" />
+    </a>
+    <a href="https://danil2_8" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    </p>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danil0-1" alt="Danilo - Trofeos" /></a>
+  <img src="https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e" alt="Banner Final" width="400" />
 </p>
