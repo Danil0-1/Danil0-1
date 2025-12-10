@@ -71,7 +71,7 @@ Conoce algunas de las tecnologías con las que he trabajado:
 
 <p align="left">
     <a href="https://danil0-1.github.io/PortafolioDaniloMuskus/index.html" target="blank">
-        <img align="center" src="https://cdn.simpleicons.org/website/white" alt="Mi Portafolio Web" height="30" width="40" />
+        <img align="center" src="https://i.pinimg.com/736x/57/9a/d5/579ad596368d982fb26e7fa1c7b06a48.jpg" alt="Mi Portafolio Web" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/danil2_8" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
