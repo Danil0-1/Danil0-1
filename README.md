@@ -67,13 +67,37 @@ Conoce algunas de las tecnologías con las que he trabajado:
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark" alt="Danilo - Estadísticas Generales" />
+  
+  ### 📊 Estadísticas de mi Perfil
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark" 
+    alt="Danilo - Estadísticas Generales" 
+  />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark" alt="Danilo - Top Lenguajes" />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark" 
+    alt="Danilo - Top Lenguajes" 
+  />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+  
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danil0-1&theme=dark" alt="Danilo - Trofeos" /></a>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=danil0-1" 
+      alt="Danilo - Trofeos" 
+    />
+  </a>
+
 </div>
 
 <div align="center">
