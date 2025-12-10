@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e" alt="Avatar o Banner" width="400" />
+  <img src="https://github.com/user-attachments/assets/38b23b0d-108c-4617-991c-31eaa85e434e" alt="Avatar o Banner de Bienvenida" width="400" />
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Danilo Muskus Tarazona</h1>
@@ -59,12 +59,16 @@ Conoce algunas de las tecnologías con las que he trabajado:
 
 ---
 
+### 📈 Mis Estadísticas en GitHub
+
 <div align="center">
   
-  ### 📊 Mis Estadísticas en GitHub
-  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
+  </p>
+
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark&cache_buster=20251210A1" 
+    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark&cache_buster=20251210C1" 
     alt="Danilo - Estadísticas Generales" 
     loading="lazy"
   />
@@ -72,7 +76,7 @@ Conoce algunas de las tecnologías con las que he trabajado:
   <br/>
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark&cache_buster=20251210A2" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark&cache_buster=20251210C2" 
     alt="Danilo - Top Lenguajes" 
     loading="lazy"
   />
@@ -80,7 +84,7 @@ Conoce algunas de las tecnologías con las que he trabajado:
   <br/>
   
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true&cache_buster=20251210A3" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true&cache_buster=20251210C3" 
     alt="GitHub Streak" 
     loading="lazy"
   />
@@ -94,9 +98,7 @@ Conoce algunas de las tecnologías con las que he trabajado:
       loading="lazy"
     />
   </a>
-</div>
 
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
@@ -108,15 +110,9 @@ Conoce algunas de las tecnologías con las que he trabajado:
 
 ### 🔗 Conéctate Conmigo
 
-Para contactarme o ver mi trabajo:
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
-</p>
-
 <p align="left">
     <a href="https://danil0-1.github.io/PortafolioDaniloMuskus/index.html" target="blank">
-        <img align="center" src="https://cdn.simpleicons.org/world/white" alt="Portafolio" height="30" width="40" />
+        <img align="center" src="https://cdn.simpleicons.org/website/white" alt="Mi Portafolio Web" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/danil2_8" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
