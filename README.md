@@ -59,30 +59,36 @@ Conoce algunas de las tecnologías con las que he trabajado:
 
 ---
 
+---
+
 ### 📈 Mis Estadísticas en GitHub
 
 <div align="center">
-  <p align="left">
+  
+  <p>
     <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
   </p>
-  
+
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark&cache_buster=10122025" 
+    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark&cache_buster=20251210C1" 
     alt="Danilo - Estadísticas Generales" 
+    loading="lazy"
   />
   
   <br/>
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark&cache_buster=10122025" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark&cache_buster=20251210C2" 
     alt="Danilo - Top Lenguajes" 
+    loading="lazy"
   />
   
   <br/>
   
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true&cache_buster=10122025" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true&cache_buster=20251210C3" 
     alt="GitHub Streak" 
+    loading="lazy"
   />
   
   <br/>
@@ -91,6 +97,7 @@ Conoce algunas de las tecnologías con las que he trabajado:
     <img 
       src="https://github-profile-trophy.vercel.app/?username=danil0-1" 
       alt="Danilo - Trofeos" 
+      loading="lazy"
     />
   </a>
 
@@ -102,6 +109,17 @@ Conoce algunas de las tecnologías con las que he trabajado:
 </div>
 
 ---
+
+### 🔗 Conéctate Conmigo
+
+<p align="left">
+    <a href="https://danil0-1.github.io/PortafolioDaniloMuskus/index.html" target="blank">
+        <img align="center" src="https://cdn.simpleicons.org/world/white" alt="Portafolio" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/danil2_8" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+</p>
 
 ### 🔗 Conéctate Conmigo
 
