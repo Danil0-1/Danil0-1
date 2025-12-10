@@ -69,38 +69,6 @@ Conoce algunas de las tecnologías con las que he trabajado:
     <img src="https://komarev.com/ghpvc/?username=danil0-1&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
   </p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&locale=es&theme=dark&cache_buster=20251210C1" 
-    alt="Danilo - Estadísticas Generales" 
-    loading="lazy"
-  />
-  
-  <br/>
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=danil0-1&show_icons=true&locale=es&layout=compact&theme=dark&cache_buster=20251210C2" 
-    alt="Danilo - Top Lenguajes" 
-    loading="lazy"
-  />
-  
-  <br/>
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=danil0-1&theme=dark&hide_border=true&cache_buster=20251210C3" 
-    alt="GitHub Streak" 
-    loading="lazy"
-  />
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=danil0-1" 
-      alt="Danilo - Trofeos" 
-      loading="lazy"
-    />
-  </a>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake.svg">
