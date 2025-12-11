@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" alt="Avatar o Banner de Bienvenida" width="400" />
 </div>
 
-<h1 align="center">👋🏻 ¡Hola! Soy Danilo Muskus Tarazona 🤷🏻</h1>
+<h1 align="center">👋🏻 ¡Hola! Soy Danilo Muskus Tarazona </h1>
 
 <h3 align="center">💻 Desarrollador con pasión por la tecnología y el aprendizaje continuo.</h3>
 
