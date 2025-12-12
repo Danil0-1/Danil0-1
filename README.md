@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Danilo Muskus Tarazona</h1>
-<h3 align="center">17 y/o • Python & Backend Developer • Colombia </h3>
+<h3 align="center">18 y/o • Python & Backend Developer • Colombia </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=700&color=9AE6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+JavaScript;Clean+Code+Enthusiast;Cloud+Computing+Learner" />
@@ -13,7 +13,7 @@
 
 ## 🧩 About Me
 
-I'm **Danilo Muskus**, a 17-year-old backend developer from Colombia.  
+I'm **Danilo Muskus**, a 18-year-old backend developer from Colombia.  
 I enjoy building scalable systems, learning modern technologies, and improving every day.
 
 ✨ **What I'm doing now**  
