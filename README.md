@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="500" alt="Danilo Banner"/>
 </div>
 
-<h1 align="center"> Danilo Muskus Tarazona</h1>
+<h1 align="center"> Danilo Muskus </h1>
 <h3 align="center">18 y/o • Python & Backend Developer • Colombia </h3>
 
 <p align="center">
