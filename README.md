@@ -1,12 +1,10 @@
-<!-- BANNER PERSONALIZADO -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="550" alt="Danilo Banner"/>
 </div>
 
 <h1 align="center">🖤 Danilo Muskus Tarazona</h1>
-<h3 align="center">17 y/o • Python & Backend Developer • Colombia</h3>
+<h3 align="center">17 y/o • Python & Backend Developer • Colombia </h3>
 
-<!-- SUBTÍTULO ANIMADO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=700&color=9AE6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+JavaScript;Clean+Code+Enthusiast;Cloud+Computing+Learner" />
 </p>
@@ -52,8 +50,6 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ## 📈 Skills Progress
 
-> ✔️ Totalmente compatible — sin títulos dañados — alineado
-
 <div align="center">
 
 | Skill | Percent |
@@ -68,13 +64,11 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 🐍 Python Loading Animation (100% Working)
+## 🐍 Python Loading Animation 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="600"/>
 </div>
-
-> ✔️ Esta animación **sí funciona siempre**, es la animación del "snake eating contributions".
 
 ---
 
@@ -133,7 +127,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 ## ✨ Animated Footer
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="500"/>
+  <img src="https://i.pinimg.com/736x/eb/76/9c/eb769c826b9656a218ca129b5dbfb0c6.jpg" width="500"/>
   <br>
   <h3>Thanks for visiting! ⭐</h3>
   <p>I'm just getting started — big things are coming.</p>
