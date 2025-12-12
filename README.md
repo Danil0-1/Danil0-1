@@ -17,9 +17,9 @@ I'm **Danilo Muskus**, a 18-year-old backend developer from Colombia.
 I enjoy building scalable systems, learning modern technologies, and improving every day.
 
  **What I'm doing now**  
-- 🐍 Studying **OOP in Python**  
--  Learning **Python**  
--  Practicing backend architecture & APIs  
+- Studying **OOP in Python**  
+- Learning **Python**  
+- Practicing backend architecture & APIs  
 - Goal: Become a strong **Backend/Cloud Engineer**  
 
 ---
