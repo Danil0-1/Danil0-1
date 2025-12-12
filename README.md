@@ -66,7 +66,7 @@ I love learning, creating, and building projects that push my skills to the next
 
 <div align="center">
 
-[![Spotify](https://novatorem-delta.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://novatorem-delta.vercel.app/api/spotify)](https://open.spotify.com/user/h7uh5l3ruco9370nhyzm8ssid?si=a01619e8606748ae)
 
 </div>
 
