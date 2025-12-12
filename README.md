@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="500" alt="Danilo Banner"/>
+  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="450" alt="Danilo Banner"/>
 </div>
 
 <h1 align="center">🖤 Danilo Muskus Tarazona</h1>
@@ -76,8 +76,6 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=danil0-1&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=danil0-1&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
