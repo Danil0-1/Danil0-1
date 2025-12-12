@@ -1,6 +1,6 @@
 <!-- BANNER PERSONALIZADO -->
 <div align="center">
-  <img src="https://i.imgur.com/7l7Y2F2.gif" width="700" alt="Danilo Banner"/>
+  <img src="https://i.pinimg.com/originals/2b/fe/bb/2bfebb15731a00dc8b24d03c2876f239.gif" width="700" alt="Danilo Banner"/>
 </div>
 
 <h1 align="center">🖤 Danilo Muskus Tarazona</h1>
@@ -137,7 +137,7 @@ I love building, learning, and experimenting with technology.
 ## ✨ Animated Footer
 
 <div align="center">
-  <img src="https://i.imgur.com/LH6W3kf.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/2b/fe/bb/2bfebb15731a00dc8b24d03c2876f239.gif" width="500"/>
   <br>
   <h3>Thanks for visiting! ⭐</h3>
   <p>I'm just getting started — big things are coming.</p>
