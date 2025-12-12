@@ -1,6 +1,6 @@
 <!-- BANNER PERSONALIZADO -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="400" alt="Danilo Banner"/>
+  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="550" alt="Danilo Banner"/>
 </div>
 
 <h1 align="center">🖤 Danilo Muskus Tarazona</h1>
