@@ -11,20 +11,20 @@
 
 ---
 
-## 🧩 About Me
+## About Me
 
 I'm **Danilo Muskus**, a 18-year-old backend developer from Colombia.  
 I enjoy building scalable systems, learning modern technologies, and improving every day.
 
-✨ **What I'm doing now**  
+ **What I'm doing now**  
 - 🐍 Studying **OOP in Python**  
-- 🌐 Learning **Python**  
-- 📦 Practicing backend architecture & APIs  
-- 🎯 Goal: Become a strong **Backend/Cloud Engineer**  
+-  Learning **Python**  
+-  Practicing backend architecture & APIs  
+- Goal: Become a strong **Backend/Cloud Engineer**  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -47,23 +47,23 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 📈 Skills Progress
+##  Skills Progress
 
 <div align="center">
 
 | Skill | Percent |
 |-------|---------|
-| 🐍 Python | <img src="https://img.shields.io/badge/80%25-blue?style=for-the-badge&labelColor=0D1117" /> |
-| 🧱 OOP | <img src="https://img.shields.io/badge/60%25-blue?style=for-the-badge&labelColor=0D1117" /> |
-| 🌐 HTML/CSS | <img src="https://img.shields.io/badge/75%25-blue?style=for-the-badge&labelColor=0D1117" /> |
-| 🐧 Linux | <img src="https://img.shields.io/badge/65%25-blue?style=for-the-badge&labelColor=0D1117" /> |
-| 🐬 SQL | <img src="https://img.shields.io/badge/50%25-blue?style=for-the-badge&labelColor=0D1117" /> |
+|  Python | <img src="https://img.shields.io/badge/80%25-blue?style=for-the-badge&labelColor=0D1117" /> |
+|  OOP | <img src="https://img.shields.io/badge/60%25-blue?style=for-the-badge&labelColor=0D1117" /> |
+|  HTML/CSS | <img src="https://img.shields.io/badge/75%25-blue?style=for-the-badge&labelColor=0D1117" /> |
+|  Linux | <img src="https://img.shields.io/badge/65%25-blue?style=for-the-badge&labelColor=0D1117" /> |
+|  SQL | <img src="https://img.shields.io/badge/50%25-blue?style=for-the-badge&labelColor=0D1117" /> |
 
 </div>
 
 ---
 
-## 🐍 Python Loading Animation 
+##  Python Loading Animation 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="600"/>
@@ -71,7 +71,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 📦 Activity Widgets 
+##  Activity Widgets 
 
 <div align="center">
 
@@ -81,7 +81,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 🚀 Projects Showcase
+##  Projects Showcase
 
 <div align="center">
 
@@ -95,7 +95,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 🛤️ Roadmap 2025
+##  Roadmap 2025
 
 - ✔️ Master OOP in Python  
 - ✔️ Learn Git, Linux, SQL  
@@ -108,7 +108,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 🌐 Portfolio & Socials
+##  Portfolio & Socials
 
 <div align="center">
   <a href="https://danil0-1.github.io/PortafolioDaniloMuskus" target="_blank">
@@ -121,11 +121,11 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## ✨ Animated Footer
+##  Animated Footer
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b2/b2/56/b2b2565af14258ec6bb036e6e5bba9f6.gif" width="500"/>
   <br>
-  <h3>Thanks for visiting! ⭐</h3>
+  <h3>Thanks for visiting! </h3>
   <p>I'm just getting started — big things are coming.</p>
 </div>
