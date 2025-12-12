@@ -18,8 +18,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ✨ **What I'm doing now**  
 - 🐍 Studying **OOP in Python**  
-- 🌐 Learning **JavaScript**  
-- ☁️ Exploring AWS & cloud concepts  
+- 🌐 Learning **Python**  
 - 📦 Practicing backend architecture & APIs  
 - 🎯 Goal: Become a strong **Backend/Cloud Engineer**  
 
