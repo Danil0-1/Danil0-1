@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="550" alt="Danilo Banner"/>
+  <img src="https://i.pinimg.com/originals/f1/d3/7e/f1d37ed8f232573ee83de951c4d1ae30.gif" width="500" alt="Danilo Banner"/>
 </div>
 
 <h1 align="center">🖤 Danilo Muskus Tarazona</h1>
@@ -71,7 +71,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 
 ---
 
-## 📦 Activity Widgets (Arreglado)
+## 📦 Activity Widgets 
 
 <div align="center">
 
@@ -126,7 +126,7 @@ I enjoy building scalable systems, learning modern technologies, and improving e
 ## ✨ Animated Footer
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/eb/76/9c/eb769c826b9656a218ca129b5dbfb0c6.jpg" width="500"/>
+  <img src="https://i.pinimg.com/originals/b2/b2/56/b2b2565af14258ec6bb036e6e5bba9f6.gif" width="500"/>
   <br>
   <h3>Thanks for visiting! ⭐</h3>
   <p>I'm just getting started — big things are coming.</p>
